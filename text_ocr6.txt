@@ -1,0 +1,10 @@
+krungsri บรต
+โอนเงินสำเร็จ 02 ก.ค. 2566 19:21:39
+pltchapa wlan xxx-4-68648-x
+น.ส. พิชชาภาเวียงทอง xxx-1-56233-x57
+จำเวนเง๊!
+2,503.25 thb o.oo thb
+ค่าธรรมเนีย
+หมายเลขอ้างอิง) baym2168399428
+:^!!:รานส:!!
+(paragraph=True,detail=0,decoder='beamsearch',blocklist ='๐๑๒๓๔๕๖๗๘๙¥¢¤£' )
